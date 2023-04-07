@@ -1,0 +1,1 @@
+web: gunicorn project_xpressscrum.wsgi --log-file - --log-file debug
